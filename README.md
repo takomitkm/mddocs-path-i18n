@@ -1,8 +1,10 @@
-# pathmap
+# mddocs-path-i18n
 
 > 把一个 Markdown 树（vault）的**目录名和文件名**换成另一种语言，并把树内**所有引用一起改对**，产出一棵新的树。
 >
 > 一句话边界：**它不改你的 vault，只生成一棵翻译后的产物树。** 正文、frontmatter 一律不动。
+>
+> 仓库与发行名 `mddocs-path-i18n`，装完提供的命令是 **`pathmap`**（Python 包名同）。
 
 ```
 vault/                         build/zh/
@@ -166,4 +168,4 @@ python -X utf8 -m unittest discover -s tests
 
 ## 许可
 
-尚未声明。要发布给外部用之前补一个（MIT/Apache-2.0 皆可）。
+MIT，见 [LICENSE](LICENSE)。Copyright (c) 2026 takomitkm。
