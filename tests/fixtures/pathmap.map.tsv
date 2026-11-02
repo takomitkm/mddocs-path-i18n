@@ -1,0 +1,14 @@
+# pathmap translation list: <vault path> 	 <localised name> 	 <note>
+guides	指南
+guides/intro.md	入门
+guides/advanced	进阶
+guides/advanced/io.md	输入输出
+guides/code.md	示例代码
+ref	参考
+ref/dict.md	术语表
+ref/dup-a	重复甲
+ref/dup-a/same.md	同名甲
+ref/dup-b	重复乙
+ref/dup-b/same.md	同名乙
+assets	素材
+assets/pic one.png	示意图

@@ -1,0 +1,7 @@
+# 本仓一律 LF；中文一律 UTF-8 无 BOM
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary

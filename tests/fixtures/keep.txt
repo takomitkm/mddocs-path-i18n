@@ -1,0 +1,2 @@
+# keep these names as they are
+assets/*.svg

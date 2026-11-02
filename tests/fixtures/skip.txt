@@ -1,0 +1,2 @@
+# leave these out of the output tree entirely
+vendor/**

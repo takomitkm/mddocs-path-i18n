@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pathmap"
+version = "0.1.0"
+description = "Path-level localisation for Markdown trees: translate file and directory names, and fix every link."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.scripts]
+pathmap = "pathmap.cli:main"
+
+[tool.setuptools]
+packages = ["pathmap"]
